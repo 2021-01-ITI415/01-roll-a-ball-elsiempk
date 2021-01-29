@@ -1,5 +1,0 @@
-sceneSetups:
-- path: D:/2021/game design/01-roll-a-ball-elsiempk/Assets/Scenes/mini game.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
